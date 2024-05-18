@@ -1,0 +1,8 @@
+.dataGrid{
+    margin-right: 30px;
+}
+
+.MuiDataGrid-toolbarContainer{
+    flex-direction: row-reverse !important;
+}
+
